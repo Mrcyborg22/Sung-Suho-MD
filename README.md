@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 Mr SungSu 🌝💚
 <p align="center">
-  <img src="https://files.catbox.moe/vcofni.jpg" />
+  <img src="https://files.catbox.moe/eeeypw.jpg" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
@@ -31,7 +31,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/NaCkS-ai/Sung-Suho-MD/fork"><img title="Sung-Suho-MD" src="https://img.shields.io/badge/FORK-Sung-Suho-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/NaCkS-ai/Sung-Suho-MD/fork"><img src="https://img.shields.io/github/forks/NaCkS-ai/Sung-Suho-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20SUNG-SUHO" alt="Fork SUNG SUHO MD" /></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -45,11 +45,11 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 > 🔸 Pair Code Authentication
 
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://suho-pair-vh43.onrender.com)
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://suho-pair3.onrender.com/pair)
 
 > 🔹 QR Code Authentication
 
-[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://suho-pair-vh43.onrender.com)
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://suho-pair3.onrender.com/qr)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 

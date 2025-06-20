@@ -1,6 +1,7 @@
 const axios = require('axios');
 const os = require('os');
 const fs = require('fs');
+const config = require('../settings'); 
 const path = require('path');
 const { lite, commands } = require('../lite');
 const { runtime } = require('../lib/functions');
@@ -79,7 +80,7 @@ Use *.update* to update.`;
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363398430045533@newsletter',
+          newsletterJid: '120363402507750390@newsletter',
           newsletterName: 'ᴍʀ sᴜɴɢ',
           serverMessageId: 143
         }
