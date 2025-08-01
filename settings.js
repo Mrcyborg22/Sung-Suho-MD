@@ -127,7 +127,7 @@ module.exports = {
     AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
     // make it true for auto recording 
 
-    version: process.env.version || "0.0.6"
+    version: process.env.version || "1.0.0-alpha"
 
     
 };
